@@ -7,5 +7,6 @@ redirects:
   - /dcs/resources
 ---
 
-This page has been moved to [](docId\:IsOkCjvE5sqGHcaamSB7X).
+This page has been moved to over to [](docId\:IsOkCjvE5sqGHcaamSB7X).
+
 
